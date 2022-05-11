@@ -23,4 +23,4 @@ function movimentaRaqueteOponente(){
 
 `#issoesuporteinformatika!`
 
-> @Copyright [Suporte Informatika](https://www.suporteinformatika.com.br) - Todos Os Direitos Reservados!
+> @Copyright [Suporte Informatika](https://www.suporteinformatika.com) - Todos Os Direitos Reservados!
