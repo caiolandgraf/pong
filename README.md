@@ -8,7 +8,7 @@
 
 `Jogo do pong criado com JS + P5.js`
 
-🔗 <a href="https://caiolandgraf.github.io/pong/" target="_blank">`Clock here to open the project in new window`</a>
+🔗 <a href="https://caiolandgraf.github.io/pong/" target="_blank">`Click here to open the project in new window`</a>
 
 ```JS
 function movimentaRaqueteOponente(){
