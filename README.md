@@ -8,6 +8,8 @@
 
 `Jogo do pong criado com JS + P5.js`
 
+🔗 `Link to test project:` https://caiolandgraf.github.io/pong/
+
 ```JS
 function movimentaRaqueteOponente(){
     velocidadeYOponente = yBolinha -yRaqueteOponente - raqueteComprimento / 2 - 30;
